@@ -16,3 +16,9 @@ A Final Fantasy XIV Ultimate Raid Simulator featuring selected mechanics from Th
 2. Open XivSim.uproject
 3. Switch Unreal Engine Version
 4. Generate Visual Studio Project Files
+
+## Disclaimer
+
+This project is not affiliated with, endorsed by, or authorized by Square Enix.
+
+By using this simulator, you acknowledge and accept any potential risks or consequences, including but not limited to actions that may be taken against your game account. Use at your own discretion and risk.
